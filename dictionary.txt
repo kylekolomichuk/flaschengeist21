@@ -13,8 +13,8 @@ Porsche - Car Manufacturer
 BMW - Car Manufacturer
 Dirndel
 Lederhose
-Audi
-Schloss
+Audi - Car Manufacturer
+Schloss - Palace
 Munich
 wettbewerbsfaehig
 Mehlhase - SER316 Professor
