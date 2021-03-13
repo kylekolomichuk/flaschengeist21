@@ -1,28 +1,23 @@
-Raesfeld
-Flughafen - airport
-Berlin 
-Bratwurst - hotdog
-Hauptstrasse
 Raesfeld - German Town
 Flughafen - Airport
 Berlin - Town
 Bratwurst - hotdog
 Hauptstrasse - main road
-Brot
-Gauss
+Brot -
+Gauss -
+Biergarten - beer garden
+Ratskeller -
 Klimaanlage
 RammsteinMusik
-Porsche
-BMW
-Biergarten
-Ratskeller
+Porsche - Car Manufacturer
+BMW - Car Manufacturer
 Dirndel
 Lederhose
-Audi
-Schloss
+Audi - Car Manufacturer
+Schloss - Palace
 Munich
 wettbewerbsfaehig
 Mehlhase - Professor
 Gebaeck
-Baeckerei
-Hund
+Baeckerei - baker
+Hund - dog
