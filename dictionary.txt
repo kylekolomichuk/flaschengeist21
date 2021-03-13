@@ -3,14 +3,14 @@ Flughafen - Airport
 Berlin - Town
 Bratwurst - hotdog
 Hauptstrasse - main road
-Brot
-Gauss
-Klimaanlage
-RammsteinMusik
-Porsche
-BMW
-Biergarten
-Ratskeller
+Brot - bread
+Gauss - German last name
+Klimaanlage - air conditioning
+RammsteinMusik - German band
+Porsche - German car brand
+BMW - German car brand
+Biergarten - beer garden
+Ratskeller -
 Dirndel
 Lederhose
 Audi
