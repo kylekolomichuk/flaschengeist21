@@ -3,20 +3,20 @@ Flughafen - Airport
 Berlin - Town
 Bratwurst - hotdog
 Hauptstrasse - main road
-Brot
-Gauss
+Brot -
+Gauss -
+Biergarten - beer garden
+Ratskeller -
 Klimaanlage
 RammsteinMusik
-Porsche
-BMW
-Biergarten
-Ratskeller
+Porsche - Car Manufacturer
+BMW - Car Manufacturer
 Dirndel
 Lederhose
 Audi
 Schloss
 Munich
-wet-tbewerbsfaehig
+wettbewerbsfaehig
 Mehlhase - SER316 Professor
 Gebaeck
 Baeckerei - baker
