@@ -1,8 +1,8 @@
-Raesfeld
-Flughafen
-Berlin
+Raesfeld - German Town
+Flughafen - Airport
+Berlin - Town
 Bratwurst - hotdog
-Hauptstrasse
+Hauptstrasse - main road
 Brot
 Gauss
 Klimaanlage
