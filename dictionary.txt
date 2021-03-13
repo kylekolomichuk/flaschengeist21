@@ -5,20 +5,12 @@ Bratwurst - hotdog
 Hauptstrasse - main road
 Brot -
 Gauss -
-Klimaanlage -
-RammsteinMusik -
-Porsche -
-BMW -
 Biergarten - beer garden
 Ratskeller -
-Brot
-Gauss
 Klimaanlage
 RammsteinMusik
 Porsche - Car Manufacturer
 BMW - Car Manufacturer
-Biergarten
-Ratskeller
 Dirndel
 Lederhose
 Audi
