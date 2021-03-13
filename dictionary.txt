@@ -1,8 +1,3 @@
-Raesfeld
-Flughafen - airport
-Berlin 
-Bratwurst - hotdog
-Hauptstrasse
 Raesfeld - German Town
 Flughafen - Airport
 Berlin - Town
@@ -18,15 +13,19 @@ Porsche - Car Manufacturer
 BMW - Car Manufacturer
 Dirndel
 Lederhose
-Audi
-Schloss
+Audi - Car Manufacturer
+Schloss - Palace
 Munich
 wettbewerbsfaehig
+<<<<<<< HEAD
 <<<<<<< HEAD
 Mehlhase - Professor
 =======
 Mehlhase - SER316 Professor
 >>>>>>> main
+=======
+Mehlhase - Professor
+>>>>>>> a5d321d7172cc619c040697fdd7f6ff65a5890dc
 Gebaeck
 Baeckerei - baker
 Hund - dog
