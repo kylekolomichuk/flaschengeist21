@@ -20,4 +20,4 @@ wet-tbewerbsfaehig
 Mehlhase
 Gebaeck
 Baeckerei
-Hund
+Hund - dog
