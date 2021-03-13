@@ -19,5 +19,5 @@ Munich
 wettbewerbsfaehig
 Mehlhase - SER316 Professor
 Gebaeck
-Baeckerei
-Hund
+Baeckerei - baker
+Hund - dog
