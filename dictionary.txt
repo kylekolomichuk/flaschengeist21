@@ -3,6 +3,14 @@ Flughafen - Airport
 Berlin - Town
 Bratwurst - hotdog
 Hauptstrasse - main road
+Brot -
+Gauss -
+Klimaanlage -
+RammsteinMusik -
+Porsche -
+BMW -
+Biergarten - beer garden
+Ratskeller -
 Brot
 Gauss
 Klimaanlage
