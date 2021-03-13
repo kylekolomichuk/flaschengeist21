@@ -11,13 +11,21 @@ Porsche -
 BMW -
 Biergarten - beer garden
 Ratskeller -
+Brot
+Gauss
+Klimaanlage
+RammsteinMusik
+Porsche - Car Manufacturer
+BMW - Car Manufacturer
+Biergarten
+Ratskeller
 Dirndel
 Lederhose
 Audi
 Schloss
 Munich
 wettbewerbsfaehig
-Mehlhase
+Mehlhase - SER316 Professor
 Gebaeck
 Baeckerei
 Hund
