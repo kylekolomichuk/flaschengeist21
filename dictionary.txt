@@ -3,21 +3,21 @@ Flughafen - Airport
 Berlin - Town
 Bratwurst - hotdog
 Hauptstrasse - main road
-Brot -
-Gauss -
+Brot - Loaf
+Gauss - Magnetic Flux
 Biergarten - beer garden
-Ratskeller -
-Klimaanlage
-RammsteinMusik
+Ratskeller - Bar 
+Klimaanlage - Air Conditioner
+RammsteinMusik - German Band
 Porsche - Car Manufacturer
 BMW - Car Manufacturer
-Dirndel
-Lederhose
-Audi
-Schloss
-Munich
-wettbewerbsfaehig
+Dirndel - young women
+Lederhose - leather pants
+Audi - Car Manufacturer
+Schloss - Castle
+Munich - German Town
+wettbewerbsfaehig - competitive
 Mehlhase - SER316 Professor
-Gebaeck
+Gebaeck - pastries
 Baeckerei - baker
 Hund - dog
