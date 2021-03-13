@@ -3,6 +3,11 @@ Flughafen - airport
 Berlin 
 Bratwurst - hotdog
 Hauptstrasse
+Raesfeld - German Town
+Flughafen - Airport
+Berlin - Town
+Bratwurst - hotdog
+Hauptstrasse - main road
 Brot
 Gauss
 Klimaanlage
