@@ -1,7 +1,7 @@
 Raesfeld
-Flughafen
-Berlin
-Bratwurst
+Flughafen - airport
+Berlin 
+Bratwurst - hotdog
 Hauptstrasse
 Brot
 Gauss
@@ -16,7 +16,7 @@ Lederhose
 Audi
 Schloss
 Munich
-wet-tbewerbsfaehig
+wettbewerbsfaehig
 Mehlhase
 Gebaeck
 Baeckerei
